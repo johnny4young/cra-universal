@@ -21,6 +21,6 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-router": "*"
+    "react-router": ">=5.2.0"
   }
 }
